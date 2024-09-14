@@ -26,20 +26,6 @@ This project focuses on implementing two's complement bitwise operations in C++ 
 2. **Operator Overloading**: Overloaded operators `+`, `-`, `==`, `!=`, `<<`, `>>` are defined to perform various operations.
 3. **Menu-Driven Program**: A menu-based program allows the user to input binary numbers, perform arithmetic, and check results.
 
-## Sample Menu:
-
-Menu:
-1-Input binary numbers
-2-Output binary numbers
-3-Bitwise negation
-4-Two's complement
-5-Addition
-6-Subtraction
-7-Equality check
-8-Inequality check
-9-Check if zero
-10-Check if negative
-11-Quit
 
 ## OOP Concepts Demonstrated
 

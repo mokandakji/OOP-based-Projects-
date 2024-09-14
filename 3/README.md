@@ -44,7 +44,8 @@ Enter postal code prefix (1-5 digits): 123
 
 POSTAL CODE CITY LIST
 0 quit c search by postal code prefix f search by postal code range
-your choice: f 
+your choice: f
+
 Enter the starting postal code: 10000 
 Enter the ending postal code: 20000 
 12300 Abenberg | Abbendorf | Abbenrode 14501 Abbendorf | Abberode 17834 Aach | Aachen ...

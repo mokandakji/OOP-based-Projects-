@@ -62,7 +62,4 @@ This project models a call center that handles accommodation reservations and tr
 
 Each project contains its own `README.md` file with detailed usage instructions and examples. Follow the links above to get instructions for each project.
 
-To compile any project, navigate to the respective project folder and run:
 
-```bash
-g++ -std=c++11 main.cpp -o project_executable

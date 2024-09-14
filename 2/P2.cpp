@@ -1,11 +1,3 @@
-/***********************************************************************
-Matr.-Nr:                     3141578
-Nachname/Surname:             KANDAKJI
-Vorname/Given name:           Mohammad
-Uni-Email:                    mohammad.kandakji@stud.uni-due.de
-Studiengang/Course of studis: ISE Computer Engineering (Software Engineering)
-***********************************************************************/
-
 #include<iostream>
 #include<string>
 #include<math.h>

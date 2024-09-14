@@ -34,7 +34,7 @@ The program uses a singly linked list to store the city names and associated pos
 5. **Encapsulation**: The data and operations related to the cities and postal codes are encapsulated within the appropriate structures and functions.
 
 ### Example Program Run:
-
+```text
 POSTAL CODE CITY LIST
 0 quit c search by postal code prefix f search by postal code range
 your choice: c

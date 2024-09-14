@@ -21,25 +21,3 @@ This project simulates the management and organization of postal codes (PLZ) and
 4. **File Handling**: Efficient reading of postal code data from an external file.
 5. **Encapsulation**: The data and operations related to the cities and postal codes are encapsulated within the appropriate structures and functions.
 
-## Usage
-
-1. **File Input**: Ensure that the `plz.csv` file is present in the project directory. This file contains the postal codes and associated cities.
-2. **Compile**: Use the provided Makefile to compile the project:
-    ```bash
-    make
-    ```
-3. **Run**: After compilation, run the program:
-    ```bash
-    ./postalcode
-    ```
-4. **Menu**: The program will provide a menu for searching and displaying cities associated with postal codes:
-    - `q`: Quit the program
-    - `c`: Enter the beginning digits of a postal code to search
-    - `f`: Enter a range of postal codes to search and display cities
-
-## Example Output
-
-Enter a command: c
-Enter postal code start: 4 
-Displaying all cities for postal codes between 40000 and 49999: 47057:
-Duisburg | 45472: Muelheim an der Ruhr |

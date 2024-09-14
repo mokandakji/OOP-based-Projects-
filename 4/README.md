@@ -13,6 +13,20 @@ This project simulates a call center system that manages booking requests for ac
 - **Total Price Calculation**: The system calculates the total price for the accommodation and transport (if booked) and displays it to the user.
 - **Menu-Driven Interaction**: Users interact with the system through a menu that offers options to create new requests, show all requests, and manage existing requests.
 
+### Usage
+
+The program will prompt you with a menu to manage reservation requests and transportation details for a call center. The menu options include:
+
+- **Create a new standard reservation request**: Enter details such as the location of accommodation, arrival date, number of nights, single and double room counts, board type (all-inclusive, half board, breakfast, or no meals), and parking options. You will also be asked to provide details for transport outward and return (flight, train, or self-travel). The price will be calculated based on the selected options.
+  
+- **Create a new superior reservation request**: Similar to the standard reservation, but with higher pricing for rooms.
+
+- **Display a reservation request**: Enter the reservation number to view the details of that specific request, including accommodation, guest count, transport, and the total price.
+
+- **Display all reservation requests**: Output the details of all active reservation requests in the call center.
+
+- **Cancel a reservation request**: After viewing a specific request, you can optionally cancel it by removing it from the list of requests.
+
 ## OOP Concepts Demonstrated
 
 1. **Classes and Objects**: The project defines multiple classes like `CallCenter`, `Request`, `Accomodation`, `Transport`, `PublicTransport`, `Flight`, and `Train`.

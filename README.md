@@ -1,6 +1,6 @@
 # Object-Oriented Programming Projects in C++
 
-This repository contains a collection of C++ projects that demonstrate fundamental Object-Oriented Programming (OOP) concepts. Each project focuses on a specific aspect of OOP, providing practical examples like encapsulation, inheritance, polymorphism, operator overloading, and linked lists.
+This repository contains a collection of C++ projects that demonstrate some Object-Oriented Programming (OOP) concepts. Each project focuses on a specific aspect of OOP, providing practical examples like encapsulation, inheritance, polymorphism, operator overloading, and linked lists.
 
 ## Projects Overview
 

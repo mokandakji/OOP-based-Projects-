@@ -25,13 +25,3 @@ This project focuses on implementing two's complement bitwise operations in C++ 
 1. **Define binary_number Structure**: A `binary_number` structure represents a two's complement number with `n` bits.
 2. **Operator Overloading**: Overloaded operators `+`, `-`, `==`, `!=`, `<<`, `>>` are defined to perform various operations.
 3. **Menu-Driven Program**: A menu-based program allows the user to input binary numbers, perform arithmetic, and check results.
-
-
-## OOP Concepts Demonstrated
-
-- **Operator Overloading**: Overloaded various operators (`<<`, `>>`, `!`, `-`, `+`, `==`, `!=`) to perform custom operations on binary number structures.
-- **Encapsulation**: The binary number and its operations are encapsulated within a C++ structure, ensuring that the representation is hidden from the outside world.
-- **Modular Design**: Functions such as `is_zero()`, `is_negative()`, and `full_adder()` demonstrate a modular approach, breaking the problem into manageable sub-tasks.
-- **Dynamic Memory Allocation**: Use of structures and arrays to handle variable-length binary numbers.
-- **Two's Complement Arithmetic**: Implemented two's complement arithmetic for addition, subtraction, and negation of binary numbers.
-

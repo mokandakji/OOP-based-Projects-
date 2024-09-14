@@ -39,6 +39,13 @@ The metro stations are stored as nodes in a doubly linked list, allowing the tra
   - **Display train positions**: Show the current position of each train.
   - **Simulate 1 minute**: Advance the simulation by 1 minute, updating the positions of the trains.
 
+## OOP Concepts Demonstrated
+
+- **Encapsulation**: Data related to stations and trains is organized into C++ structures.
+- **Doubly Linked List**: The stations on each line are stored as a doubly linked list, allowing movement in both directions.
+- **Polymorphism and Function Overloading**: Multiple output functions are used to display the metro line and train positions.
+- **Dynamic Memory Management**: Metro stations are dynamically allocated on the heap and managed through pointers.
+
 ## Example Program Run
 
 ```text
@@ -63,9 +70,3 @@ time simulation: 1 min
 train 1: 4 minute(s) to line 1 station 2
 train 2: 2 minute(s) to line 2 station 2
 
-## OOP Concepts Demonstrated
-
-- **Encapsulation**: Data related to stations and trains is organized into C++ structures.
-- **Doubly Linked List**: The stations on each line are stored as a doubly linked list, allowing movement in both directions.
-- **Polymorphism and Function Overloading**: Multiple output functions are used to display the metro line and train positions.
-- **Dynamic Memory Management**: Metro stations are dynamically allocated on the heap and managed through pointers.

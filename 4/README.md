@@ -40,7 +40,7 @@ The program will prompt you with a menu to manage reservation requests and trans
 
 
 ### Example Program Run:
-
+```text
 CALL CENTER BOOKING REQUEST
 0 end
 1 new reservation request standard

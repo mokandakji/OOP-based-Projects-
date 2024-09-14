@@ -30,3 +30,36 @@ The metro stations are stored as nodes in a doubly linked list, allowing the tra
 - `output_line()`: Function to output the stations on a metro line.
 - `output_all_trains()`: Function to output the status of all trains on a line.
 - `simulate_train_movement()`: Function to simulate 1 minute of train movement and update the train’s position.
+
+## Usage
+
+- The program will ask you to input the number of stations for two metro lines.
+- After entering the station counts, you will be presented with a menu to:
+  - **Display stations of a line**: Output the stations of a chosen metro line.
+  - **Display train positions**: Show the current position of each train.
+  - **Simulate 1 minute**: Advance the simulation by 1 minute, updating the positions of the trains.
+
+## Example Program Run
+
+```text
+input number of stations of line 1: 4
+input number of stations of line 2: 3
+e end
+l line output
+t train output
+1 simulate 1 minute
+>> l
+which line? 1
+line 1 station 1: time to next: 4 min
+line 1 station 2: time to next: 2 min
+line 1 station 3: time to next: 5 min
+line 1 station 4: end station
+>> t
+time simulation: 0 min
+train 1: stop at line 1 station 1
+train 2: stop at line 2 station 1
+>> 1
+time simulation: 1 min
+train 1: 4 minute(s) to line 1 station 2
+train 2: 2 minute(s) to line 2 station 2
+

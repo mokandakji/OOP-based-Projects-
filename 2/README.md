@@ -27,7 +27,7 @@ This project focuses on implementing two's complement bitwise operations in C++ 
 - **Dynamic Memory Management**: The binary number is stored in a dynamically allocated array to support varying sizes.
 
 ### Example Program Run:
-
+ ```text 
 TWO'S COMPLEMENT BITWISE OPERATIONS
 
 0 quit 1 input binary number a 2 input binary number b 3 display a 4 display b 5 bitwise negation !a 6 bitwise negation !b 7 unary minus -a (two's complement) 8 unary minus -b (two's complement) 9 a + b 10 a - b 11 check if a == b 12 check if a != b 13 check if a is zero 14 check if b is zero 15 check if a is negative 16 check if b is negative

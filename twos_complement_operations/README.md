@@ -1,4 +1,4 @@
-# Two's Complement Bitwise Operations with Operator Overloading in C++
+# Two's Complement Bitwise Operations with Operator Overloading
 
 
 <div align="center">

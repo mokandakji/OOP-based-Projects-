@@ -1,5 +1,9 @@
 # Two's Complement Bitwise Operations with Operator Overloading in C++
 
+<div align="center">
+<img src="tow_complement_diagram.png" width="400"/>
+</div>
+
 ## Project Overview
 
 This project focuses on implementing two's complement bitwise operations in C++ using operator overloading. We define a custom C++ structure `binary_number` to handle large numbers in bit form, and simulate various operations on two's complement numbers. The operations include bitwise negation, two's complement conversion, addition, subtraction, and equality checks. These operations are done using overloaded operators and custom-defined functions, providing a robust understanding of two's complement numbers and how to manipulate them programmatically.

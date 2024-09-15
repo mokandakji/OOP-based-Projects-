@@ -1,7 +1,7 @@
 # Postal Code and City Linked List in C++
 
 <div align="center">
-<img src="postal_code_diagram.png" width="400"/>
+<img src="postal_code_diagram.png" width="300"/>
 </div>
 
 ## Project Overview

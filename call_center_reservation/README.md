@@ -1,8 +1,8 @@
 # Call Center Booking Request System
 
-
-  <img src="call_center_diagram.png" width="400"/>
-
+<div align="center">
+<img src="call_center_diagram.png" width="400"/>
+</div>
 
 
 ## Project Overview

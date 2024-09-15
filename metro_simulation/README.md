@@ -1,7 +1,8 @@
 # Metro Simulation - Doubly Linked List Based Train System
 
-<img src="metro_diagram.png" alt="Metro Line Diagram" width="400"/>
-
+<div align="center">
+  <img src="metro_diagram.png" width="400"/>
+</div>
 
 ## Overview
 

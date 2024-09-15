@@ -1,5 +1,9 @@
 # Object-Oriented Programming Projects in C++
 
+<div align="center">
+  <img src="OOP.png" alt="Metro Line Diagram" width="400"/>
+</div>
+
 This repository contains a collection of C++ projects that demonstrate some Object-Oriented Programming (OOP) concepts. Each project focuses on a specific aspect of OOP, providing practical examples for encapsulation, inheritance, polymorphism, operator overloading, and linked lists.
 
 ## Projects Overview

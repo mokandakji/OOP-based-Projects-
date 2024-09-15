@@ -1,7 +1,9 @@
 # Two's Complement Bitwise Operations with Operator Overloading in C++
 
 
-<img src="tow_complement_diagram.png" width="600"/>
+<div align="center">
+<img src="tow_complement_diagram.png" width="400"/>
+</div>
 
 ## Project Overview
 

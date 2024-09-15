@@ -21,15 +21,16 @@ This project simulates metro trains moving along metro lines. The simulation is 
 
 ---
 
-### 2. **Two's Complement Bitwise Operations with Operator Overloading**
-This project implements a two's complement number system, with operator overloading to perform bitwise operations such as addition, subtraction, negation, and equality checks.
+### 2. **Call Center Reservation System with Transport Hierarchy**
+This project models a call center that handles accommodation reservations and transport bookings. The system supports various types of transport like flights, trains, and self-organized travel. It uses inheritance to define transport classes and polymorphism for method overriding.
 
 **OOP Concepts Demonstrated:**
-- Operator overloading
-- Bitwise operations
+- Inheritance
+- Polymorphism
 - Encapsulation
+- Class hierarchies
 
-[Detailed Readme](./twos_complement_operations/README.md)
+[Detailed Readme](./call_center_reservation/README.md)
 
 ---
 
@@ -45,16 +46,15 @@ This project reads a CSV file containing German postal codes and city names, and
 
 ---
 
-### 4. **Call Center Reservation System with Transport Hierarchy**
-This project models a call center that handles accommodation reservations and transport bookings. The system supports various types of transport like flights, trains, and self-organized travel. It uses inheritance to define transport classes and polymorphism for method overriding.
+### 4. **Two's Complement Bitwise Operations with Operator Overloading**
+This project implements a two's complement number system, with operator overloading to perform bitwise operations such as addition, subtraction, negation, and equality checks.
 
 **OOP Concepts Demonstrated:**
-- Inheritance
-- Polymorphism
+- Operator overloading
+- Bitwise operations
 - Encapsulation
-- Class hierarchies
 
-[Detailed Readme](./call_center_reservation/README.md)
+[Detailed Readme](./twos_complement_operations/README.md)
 
 ---
 

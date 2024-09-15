@@ -1,5 +1,9 @@
 # Call Center Booking Request System
 
+<div align="center">
+  <img src="call_center_diagram" width="400"/>
+</div>
+
 ## Project Overview
 
 This project simulates a call center system that manages booking requests for accommodations and travel (flight, train, or self-organized). The system allows users to create, store, and manage reservation requests, including transport details for outward and return journeys. It features an interactive menu system that lets users enter accommodation and transport details, print requests, and manage bookings.

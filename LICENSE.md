@@ -1,6 +1,6 @@
 
 
-### LICENSE
+### MIT LICENSE
 
 ```markdown
 MIT License

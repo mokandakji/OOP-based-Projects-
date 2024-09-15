@@ -1,5 +1,7 @@
 # Metro Simulation - Doubly Linked List Based Train System
 
+<img src="images/metro_diagram.png" alt="Metro Line Diagram" width="400"/>
+
 ## Overview
 
 This project simulates a city's metro system using Object-Oriented Programming (OOP) principles in C++. The simulation is designed to demonstrate how metro trains move between stations on different lines. The system allows for flexible input of metro stations, simulates the travel of metro trains back and forth along a line, and outputs the train positions at any given time.

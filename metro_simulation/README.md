@@ -1,6 +1,8 @@
 # Metro Simulation - Doubly Linked List Based Train System
 
 <img src="OOP-based-Projects-/images/metro_diagram.png" alt="Metro Line Diagram" width="400"/>
+![Metro Line Diagram](images/metro_diagram.png)
+
 
 ## Overview
 

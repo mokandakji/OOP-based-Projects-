@@ -1,5 +1,9 @@
 # Postal Code and City Linked List in C++
 
+<div align="center">
+<img src="postal_code_diagram.png" width="400"/>
+</div>
+
 ## Project Overview
 
 This project simulates the management and organization of postal codes (PLZ) and their associated cities in Germany. Using C++, it implements a dynamic data structure that reads a list of postal codes and cities from a CSV file (`plz.csv`) and stores them in a linked list. The project focuses on using pointers, linked lists, file handling, and operator overloading in C++ to effectively manage and display postal code data.
